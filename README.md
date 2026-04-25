@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects I Contribute To
+
+[![RustChain Contributor](https://img.shields.io/badge/RustChain-Contributor-blue)](https://github.com/Scottcjn/Rustchain)
+
+I contribute to RustChain, a blockchain project using Proof of Antiquity consensus that rewards vintage hardware mining.
